@@ -19,6 +19,6 @@ Features include temperature display and error handling in a clean GUI.
 - 5-day forecast feature
 - Mobile version
 
-## 📷 pictures of GUI
+## 📷 Pictures of GUI
 <h3>Weather App GUI</h3>
 <img src = "https://github.com/user-attachments/assets/117be787-020d-42fc-981e-a82389f4b16f" width ="300" />
