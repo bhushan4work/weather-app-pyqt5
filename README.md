@@ -17,4 +17,7 @@ Features include temperature display and error handling in a clean GUI.
 - Add weather icons
 - Support more cities
 - 5-day forecast feature
-- Mobile version   
+- Mobile version
+
+ 
+![weatherapp_gui](https://github.com/user-attachments/assets/117be787-020d-42fc-981e-a82389f4b16f)
